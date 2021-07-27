@@ -6,8 +6,8 @@
           <a href="#process" class="link-d-none">Процесс</a>
           <a href="#" class="link-d-none">Услуги</a>
           <NuxtLink to="/picture"><a href="#" >Картины</a></NuxtLink>
-          <a href="#">Столы</a>
-          <a href="#">Часы</a>
+          <NuxtLink to="/table"><a href="#">Столы</a></NuxtLink>
+          <NuxtLink to="/clock"><a href="#">Часы</a></NuxtLink>
         </b-navbar-nav>
       </b-collapse>
       <b-navbar-brand class="mr-0"><img src="../static/img/nav/logo.png" alt="logo"></b-navbar-brand>

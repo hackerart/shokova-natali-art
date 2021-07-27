@@ -4,20 +4,20 @@
     <div class="mainHeadline-container container-fluid px-0">
       <div class="position-absolute mainHeadline-backgroundImg mainHeadline-backImgLine">
         <div class="mainHeadline-backgroundImg-img-1">
-          <img src="../static/img/theMainHeadline/1.png" alt="">
+          <img src="../static/img/theMainHeadline/table/1.png" alt="">
         </div>
         <div class="mainHeadline-backgroundImg-img-2">
-          <img src="../static/img/theMainHeadline/picture/1.png" alt="">
+          <img src="../static/img/theMainHeadline/table/2.png" alt="">
         </div>
       </div>
       <div class="position-absolute mainHeadline-backgroundImg background-position-right">
         <div class="mainHeadline-backgroundImg-img-1-reverse">
-          <img src="../static/img/theMainHeadline/picture/2.png" alt="">
+          <img src="../static/img/theMainHeadline/table/3.png" alt="">
         </div>
       </div>
       <div class="mainHeadline-title d-flex flex-column align-items-center">
-        <h1>Написание картин в современных техниках</h1>
-        <p>Вы можете заказать картину исключительно под свой интерьер, как по цветам, так и по материалам.</p>
+        <h1>Изготовление Столов из эпоксидной смолы под заказ.</h1>
+        <p>Вы можете заказать стол исключительно под свой интерьер, как по цветам, так и по материалам.</p>
         <button>
           Записаться на консультацию
         </button>
@@ -30,38 +30,38 @@
           <div class="cursor"></div>
           <div class="slider__wrapper" :style="`left: ${padding}px`">
             <div class="slider__block slider__block_left">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/1.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/1.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/3.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/3.png" alt="" />
               </div>
             </div>
 
             <div class="slider__block slider__block_middle">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/4.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/4.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/5.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/6.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/5.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/6.png" alt="" />
               </div>
 
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/7.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/7.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/3.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/3.png" alt="" />
               </div>
 
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/4.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/4.png" alt="" />
             </div>
 
             <div class="slider__block slider__block_right">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/7.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/7.png" alt="" />
 
               <div class="slider__img-block slider_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/5.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/6.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/5.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/6.png" alt="" />
               </div>
             </div>
           </div>
@@ -82,13 +82,13 @@
       <client-only>
         <carousel v-bind="options" class="carousel-main-container">
           <slide class="img-wrapper">
-            <img src="../static/img/theCarousel/picture/1.png" />
+            <img src="../static/img/theCarousel/table/1.png" />
           </slide>
           <slide class="img-wrapper">
-            <img src="../static/img/theCarousel/picture/2.png" />
+            <img src="../static/img/theCarousel/table/2.png" />
           </slide>
           <slide class="img-wrapper">
-            <img src="../static/img/theCarousel/picture/3.png" />
+            <img src="../static/img/theCarousel/table/3.png" />
           </slide>
         </carousel>
       </client-only>
@@ -96,10 +96,10 @@
     <div class="banner-container">
       <div class="main-banner-container d-flex align-items-center">
         <div class="main-banner-title">
-          <h2 class="mb-0">Обрабатываем картины специальным лаком.</h2>
+          <h2 class="mb-0">Обрабатываем столы специальным лаком.</h2>
         </div>
         <div class="main-banner-text">
-          <p>Все картины обрабатываются специальным лаком, который защищает их от влажности и выгорания. Можно протирать влажной тряпкой.</p>
+          <p>Все столы обрабатываются специальным лаком, который защищает их от влажности и выгорания. Можно протирать влажной тряпкой.</p>
         </div>
       </div>
     </div>
@@ -120,38 +120,38 @@
           <div class="cursor"></div>
           <div class="slider__wrapper" :style="`left: ${padding2}px`">
             <div class="slider__block slider__block_left">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/2/1.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/2/1.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/2.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/3.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/2.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/3.png" alt="" />
               </div>
             </div>
 
             <div class="slider__block slider__block_middle">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/2/4.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/2/4.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/5.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/6.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/5.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/6.png" alt="" />
               </div>
 
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/2/7.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/2/7.png" alt="" />
 
               <div class="slider__img-block slider__block_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/2.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/3.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/2.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/3.png" alt="" />
               </div>
 
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/2/4.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/2/4.png" alt="" />
             </div>
 
             <div class="slider__block slider__block_right">
-              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/picture/2/7.png" alt="" />
+              <img class="slider__img slider__block_margin" src="../static/img/theScrollText/table/2/7.png" alt="" />
 
               <div class="slider__img-block slider_margin">
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/5.png" alt="" />
-                <img class="slider__img" src="../static/img/theScrollText/picture/2/6.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/5.png" alt="" />
+                <img class="slider__img" src="../static/img/theScrollText/table/2/6.png" alt="" />
               </div>
             </div>
           </div>
@@ -309,7 +309,7 @@ export default {
       line-height: 150%;
       text-transform: uppercase;
       color: #2F1D07;
-      width: 36%;
+      width: 41%;
       text-align: center;
       margin-bottom: 1.875rem;
       z-index: 20;
